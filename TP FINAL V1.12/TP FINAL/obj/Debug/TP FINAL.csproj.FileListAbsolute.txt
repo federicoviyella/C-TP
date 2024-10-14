@@ -66,3 +66,18 @@ C:\Users\fedee\Desktop\TP FINAL V1.12\TP FINAL\obj\Debug\TP FINAL.csproj.Generat
 C:\Users\fedee\Desktop\TP FINAL V1.12\TP FINAL\obj\Debug\TP FINAL.csproj.CoreCompileInputs.cache
 C:\Users\fedee\Desktop\TP FINAL V1.12\TP FINAL\obj\Debug\TP FINAL.exe
 C:\Users\fedee\Desktop\TP FINAL V1.12\TP FINAL\obj\Debug\TP FINAL.pdb
+C:\Users\fedee\Documents\GitHub\C-TP\TP FINAL V1.12\TP FINAL\bin\Debug\TP FINAL.exe.config
+C:\Users\fedee\Documents\GitHub\C-TP\TP FINAL V1.12\TP FINAL\bin\Debug\TP FINAL.exe
+C:\Users\fedee\Documents\GitHub\C-TP\TP FINAL V1.12\TP FINAL\bin\Debug\TP FINAL.pdb
+C:\Users\fedee\Documents\GitHub\C-TP\TP FINAL V1.12\TP FINAL\obj\Debug\TP FINAL.csproj.AssemblyReference.cache
+C:\Users\fedee\Documents\GitHub\C-TP\TP FINAL V1.12\TP FINAL\obj\Debug\TP FINAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\fedee\Documents\GitHub\C-TP\TP FINAL V1.12\TP FINAL\obj\Debug\TP_FINAL.FrmLogin.resources
+C:\Users\fedee\Documents\GitHub\C-TP\TP FINAL V1.12\TP FINAL\obj\Debug\TP_FINAL.FrmPantallaPrincipal.resources
+C:\Users\fedee\Documents\GitHub\C-TP\TP FINAL V1.12\TP FINAL\obj\Debug\TP_FINAL.FrmPantallaPrincipalAdmin.resources
+C:\Users\fedee\Documents\GitHub\C-TP\TP FINAL V1.12\TP FINAL\obj\Debug\TP_FINAL.FrmRecuperacionContraseña.resources
+C:\Users\fedee\Documents\GitHub\C-TP\TP FINAL V1.12\TP FINAL\obj\Debug\TP_FINAL.FrmRegistrarse.resources
+C:\Users\fedee\Documents\GitHub\C-TP\TP FINAL V1.12\TP FINAL\obj\Debug\TP_FINAL.Properties.Resources.resources
+C:\Users\fedee\Documents\GitHub\C-TP\TP FINAL V1.12\TP FINAL\obj\Debug\TP FINAL.csproj.GenerateResource.cache
+C:\Users\fedee\Documents\GitHub\C-TP\TP FINAL V1.12\TP FINAL\obj\Debug\TP FINAL.csproj.CoreCompileInputs.cache
+C:\Users\fedee\Documents\GitHub\C-TP\TP FINAL V1.12\TP FINAL\obj\Debug\TP FINAL.exe
+C:\Users\fedee\Documents\GitHub\C-TP\TP FINAL V1.12\TP FINAL\obj\Debug\TP FINAL.pdb
