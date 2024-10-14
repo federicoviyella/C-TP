@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\santi\\OneDrive\\Documentos\\TP FINAL V1.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB87FDE-564D-4659-9FE2-6E788BFBFD7C}|TP FINAL\\TP FINAL.csproj|C:\\Users\\santi\\OneDrive\\Documentos\\TP FINAL V1.1\\tp final\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB87FDE-564D-4659-9FE2-6E788BFBFD7C}|TP FINAL\\TP FINAL.csproj|solutionrelative:tp final\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB87FDE-564D-4659-9FE2-6E788BFBFD7C}|TP FINAL\\TP FINAL.csproj|C:\\Users\\santi\\OneDrive\\Documentos\\TP FINAL V1.1\\tp final\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AB87FDE-564D-4659-9FE2-6E788BFBFD7C}|TP FINAL\\TP FINAL.csproj|solutionrelative:tp final\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB87FDE-564D-4659-9FE2-6E788BFBFD7C}|TP FINAL\\TP FINAL.csproj|c:\\users\\santi\\onedrive\\documentos\\tp final v1.1\\tp final\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB87FDE-564D-4659-9FE2-6E788BFBFD7C}|TP FINAL\\TP FINAL.csproj|solutionrelative:tp final\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB87FDE-564D-4659-9FE2-6E788BFBFD7C}|TP FINAL\\TP FINAL.csproj|C:\\Users\\santi\\OneDrive\\Documentos\\TP FINAL V1.1\\tp final\\consultasgenericas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB87FDE-564D-4659-9FE2-6E788BFBFD7C}|TP FINAL\\TP FINAL.csproj|solutionrelative:tp final\\consultasgenericas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB87FDE-564D-4659-9FE2-6E788BFBFD7C}|TP FINAL\\TP FINAL.csproj|C:\\Users\\santi\\OneDrive\\Documentos\\TP FINAL V1.1\\tp final\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB87FDE-564D-4659-9FE2-6E788BFBFD7C}|TP FINAL\\TP FINAL.csproj|solutionrelative:tp final\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB87FDE-564D-4659-9FE2-6E788BFBFD7C}|TP FINAL\\TP FINAL.csproj|C:\\Users\\santi\\OneDrive\\Documentos\\TP FINAL V1.1\\tp final\\frmregistrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB87FDE-564D-4659-9FE2-6E788BFBFD7C}|TP FINAL\\TP FINAL.csproj|solutionrelative:tp final\\frmregistrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB87FDE-564D-4659-9FE2-6E788BFBFD7C}|TP FINAL\\TP FINAL.csproj|C:\\Users\\santi\\OneDrive\\Documentos\\TP FINAL V1.1\\tp final\\frmrecuperacioncontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AB87FDE-564D-4659-9FE2-6E788BFBFD7C}|TP FINAL\\TP FINAL.csproj|solutionrelative:tp final\\frmrecuperacioncontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB87FDE-564D-4659-9FE2-6E788BFBFD7C}|TP FINAL\\TP FINAL.csproj|C:\\Users\\santi\\OneDrive\\Documentos\\TP FINAL V1.1\\tp final\\frmregistrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AB87FDE-564D-4659-9FE2-6E788BFBFD7C}|TP FINAL\\TP FINAL.csproj|solutionrelative:tp final\\frmregistrarse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB87FDE-564D-4659-9FE2-6E788BFBFD7C}|TP FINAL\\TP FINAL.csproj|C:\\Users\\santi\\OneDrive\\Documentos\\TP FINAL V1.1\\tp final\\frmrecuperacioncontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AB87FDE-564D-4659-9FE2-6E788BFBFD7C}|TP FINAL\\TP FINAL.csproj|solutionrelative:tp final\\frmrecuperacioncontrase\u00F1a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AB87FDE-564D-4659-9FE2-6E788BFBFD7C}|TP FINAL\\TP FINAL.csproj|C:\\Users\\santi\\OneDrive\\Documentos\\TP FINAL V1.1\\tp final\\frmpantallaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0AB87FDE-564D-4659-9FE2-6E788BFBFD7C}|TP FINAL\\TP FINAL.csproj|solutionrelative:tp final\\frmpantallaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Documentos\\TP FINAL V1.1\\TP FINAL\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "TP FINAL\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Documentos\\TP FINAL V1.1\\TP FINAL\\FrmLogin.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "TP FINAL\\FrmLogin.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:33:09.989Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmRegistrarse.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Documentos\\TP FINAL V1.1\\TP FINAL\\FrmRegistrarse.cs",
+              "RelativeDocumentMoniker": "TP FINAL\\FrmRegistrarse.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Documentos\\TP FINAL V1.1\\TP FINAL\\FrmRegistrarse.cs [Design]",
+              "RelativeToolTip": "TP FINAL\\FrmRegistrarse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:33:09.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmRecuperacionContrase\u00F1a.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Documentos\\TP FINAL V1.1\\TP FINAL\\FrmRecuperacionContrase\u00F1a.cs",
+              "RelativeDocumentMoniker": "TP FINAL\\FrmRecuperacionContrase\u00F1a.cs",
+              "ToolTip": "C:\\Users\\Fedee\\Desktop\\TP FINAL\\TP FINAL\\FrmRecuperacionContrase\u00F1a.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Fedee\\Desktop\\TP FINAL\\TP FINAL\\FrmRecuperacionContrase\u00F1a.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:33:09.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmRecuperacionContrase\u00F1a.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Documentos\\TP FINAL V1.1\\TP FINAL\\FrmRecuperacionContrase\u00F1a.cs",
+              "RelativeDocumentMoniker": "TP FINAL\\FrmRecuperacionContrase\u00F1a.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Documentos\\TP FINAL V1.1\\TP FINAL\\FrmRecuperacionContrase\u00F1a.cs",
+              "RelativeToolTip": "TP FINAL\\FrmRecuperacionContrase\u00F1a.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwDAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:33:09.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmRegistrarse.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Documentos\\TP FINAL V1.1\\TP FINAL\\FrmRegistrarse.cs",
+              "RelativeDocumentMoniker": "TP FINAL\\FrmRegistrarse.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Documentos\\TP FINAL V1.1\\TP FINAL\\FrmRegistrarse.cs",
+              "RelativeToolTip": "TP FINAL\\FrmRegistrarse.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAwwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:33:09.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Documentos\\TP FINAL V1.1\\TP FINAL\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "TP FINAL\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Documentos\\TP FINAL V1.1\\TP FINAL\\FrmLogin.cs*",
+              "RelativeToolTip": "TP FINAL\\FrmLogin.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAA9wCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:33:09.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Documentos\\TP FINAL V1.1\\TP FINAL\\Usuario.cs",
+              "RelativeDocumentMoniker": "TP FINAL\\Usuario.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Documentos\\TP FINAL V1.1\\TP FINAL\\Usuario.cs",
+              "RelativeToolTip": "TP FINAL\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:33:09.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsultasGenericas.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Documentos\\TP FINAL V1.1\\TP FINAL\\ConsultasGenericas.cs",
+              "RelativeDocumentMoniker": "TP FINAL\\ConsultasGenericas.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Documentos\\TP FINAL V1.1\\TP FINAL\\ConsultasGenericas.cs",
+              "RelativeToolTip": "TP FINAL\\ConsultasGenericas.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:33:09.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmPantallaPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Documentos\\TP FINAL V1.1\\TP FINAL\\FrmPantallaPrincipal.cs",
+              "RelativeDocumentMoniker": "TP FINAL\\FrmPantallaPrincipal.cs",
+              "ToolTip": "C:\\Users\\Fedee\\Desktop\\TP FINAL\\TP FINAL\\FrmPantallaPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Fedee\\Desktop\\TP FINAL\\TP FINAL\\FrmPantallaPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:33:09.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Documentos\\TP FINAL V1.1\\TP FINAL\\Conexion.cs",
+              "RelativeDocumentMoniker": "TP FINAL\\Conexion.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Documentos\\TP FINAL V1.1\\TP FINAL\\Conexion.cs",
+              "RelativeToolTip": "TP FINAL\\Conexion.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T21:33:09.574Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

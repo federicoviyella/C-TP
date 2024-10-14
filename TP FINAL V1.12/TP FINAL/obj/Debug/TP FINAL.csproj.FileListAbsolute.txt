@@ -1,0 +1,68 @@
+C:\Users\fedee\source\repos\TP FINAL\TP FINAL\bin\Debug\TP FINAL.exe.config
+C:\Users\fedee\source\repos\TP FINAL\TP FINAL\bin\Debug\TP FINAL.exe
+C:\Users\fedee\source\repos\TP FINAL\TP FINAL\bin\Debug\TP FINAL.pdb
+C:\Users\fedee\source\repos\TP FINAL\TP FINAL\obj\Debug\TP FINAL.csproj.AssemblyReference.cache
+C:\Users\fedee\source\repos\TP FINAL\TP FINAL\obj\Debug\TP FINAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\fedee\source\repos\TP FINAL\TP FINAL\obj\Debug\TP_FINAL.FrmLogin.resources
+C:\Users\fedee\source\repos\TP FINAL\TP FINAL\obj\Debug\TP_FINAL.Properties.Resources.resources
+C:\Users\fedee\source\repos\TP FINAL\TP FINAL\obj\Debug\TP FINAL.csproj.GenerateResource.cache
+C:\Users\fedee\source\repos\TP FINAL\TP FINAL\obj\Debug\TP FINAL.csproj.CoreCompileInputs.cache
+C:\Users\fedee\source\repos\TP FINAL\TP FINAL\obj\Debug\TP FINAL.exe
+C:\Users\fedee\source\repos\TP FINAL\TP FINAL\obj\Debug\TP FINAL.pdb
+C:\Users\fedee\source\repos\TP FINAL\TP FINAL\obj\Debug\TP_FINAL.FrmRegistrarse.resources
+C:\Users\fedee\source\repos\TP FINAL\TP FINAL\obj\Debug\TP_FINAL.FrmRecuperacionContraseña.resources
+C:\Users\Fedee\Desktop\TP FINAL\TP FINAL\bin\Debug\TP FINAL.exe.config
+C:\Users\Fedee\Desktop\TP FINAL\TP FINAL\bin\Debug\TP FINAL.exe
+C:\Users\Fedee\Desktop\TP FINAL\TP FINAL\bin\Debug\TP FINAL.pdb
+C:\Users\Fedee\Desktop\TP FINAL\TP FINAL\obj\Debug\TP FINAL.csproj.AssemblyReference.cache
+C:\Users\Fedee\Desktop\TP FINAL\TP FINAL\obj\Debug\TP_FINAL.FrmLogin.resources
+C:\Users\Fedee\Desktop\TP FINAL\TP FINAL\obj\Debug\TP_FINAL.FrmPantallaPrincipal.resources
+C:\Users\Fedee\Desktop\TP FINAL\TP FINAL\obj\Debug\TP_FINAL.FrmRecuperacionContraseña.resources
+C:\Users\Fedee\Desktop\TP FINAL\TP FINAL\obj\Debug\TP_FINAL.FrmRegistrarse.resources
+C:\Users\Fedee\Desktop\TP FINAL\TP FINAL\obj\Debug\TP_FINAL.Properties.Resources.resources
+C:\Users\Fedee\Desktop\TP FINAL\TP FINAL\obj\Debug\TP FINAL.csproj.GenerateResource.cache
+C:\Users\Fedee\Desktop\TP FINAL\TP FINAL\obj\Debug\TP FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Fedee\Desktop\TP FINAL\TP FINAL\obj\Debug\TP FINAL.exe
+C:\Users\Fedee\Desktop\TP FINAL\TP FINAL\obj\Debug\TP FINAL.pdb
+C:\Users\fedee\Desktop\TP FINAL V1.0\TP FINAL\bin\Debug\TP FINAL.exe.config
+C:\Users\fedee\Desktop\TP FINAL V1.0\TP FINAL\bin\Debug\TP FINAL.exe
+C:\Users\fedee\Desktop\TP FINAL V1.0\TP FINAL\bin\Debug\TP FINAL.pdb
+C:\Users\fedee\Desktop\TP FINAL V1.0\TP FINAL\obj\Debug\TP FINAL.csproj.AssemblyReference.cache
+C:\Users\fedee\Desktop\TP FINAL V1.0\TP FINAL\obj\Debug\TP FINAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\fedee\Desktop\TP FINAL V1.0\TP FINAL\obj\Debug\TP_FINAL.FrmLogin.resources
+C:\Users\fedee\Desktop\TP FINAL V1.0\TP FINAL\obj\Debug\TP_FINAL.FrmPantallaPrincipal.resources
+C:\Users\fedee\Desktop\TP FINAL V1.0\TP FINAL\obj\Debug\TP_FINAL.FrmRecuperacionContraseña.resources
+C:\Users\fedee\Desktop\TP FINAL V1.0\TP FINAL\obj\Debug\TP_FINAL.FrmRegistrarse.resources
+C:\Users\fedee\Desktop\TP FINAL V1.0\TP FINAL\obj\Debug\TP_FINAL.Properties.Resources.resources
+C:\Users\fedee\Desktop\TP FINAL V1.0\TP FINAL\obj\Debug\TP FINAL.csproj.GenerateResource.cache
+C:\Users\fedee\Desktop\TP FINAL V1.0\TP FINAL\obj\Debug\TP FINAL.csproj.CoreCompileInputs.cache
+C:\Users\fedee\Desktop\TP FINAL V1.0\TP FINAL\obj\Debug\TP FINAL.exe
+C:\Users\fedee\Desktop\TP FINAL V1.0\TP FINAL\obj\Debug\TP FINAL.pdb
+C:\Users\santi\OneDrive\Documentos\TP FINAL V1.1\TP FINAL\obj\Debug\TP FINAL.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Documentos\TP FINAL V1.1\TP FINAL\obj\Debug\TP_FINAL.FrmLogin.resources
+C:\Users\santi\OneDrive\Documentos\TP FINAL V1.1\TP FINAL\obj\Debug\TP_FINAL.FrmPantallaPrincipal.resources
+C:\Users\santi\OneDrive\Documentos\TP FINAL V1.1\TP FINAL\obj\Debug\TP_FINAL.FrmRecuperacionContraseña.resources
+C:\Users\santi\OneDrive\Documentos\TP FINAL V1.1\TP FINAL\obj\Debug\TP_FINAL.FrmRegistrarse.resources
+C:\Users\santi\OneDrive\Documentos\TP FINAL V1.1\TP FINAL\obj\Debug\TP_FINAL.Properties.Resources.resources
+C:\Users\santi\OneDrive\Documentos\TP FINAL V1.1\TP FINAL\obj\Debug\TP FINAL.csproj.GenerateResource.cache
+C:\Users\santi\OneDrive\Documentos\TP FINAL V1.1\TP FINAL\obj\Debug\TP FINAL.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Documentos\TP FINAL V1.1\TP FINAL\obj\Debug\TP FINAL.exe
+C:\Users\santi\OneDrive\Documentos\TP FINAL V1.1\TP FINAL\obj\Debug\TP FINAL.pdb
+C:\Users\santi\OneDrive\Documentos\TP FINAL V1.1\TP FINAL\bin\Debug\TP FINAL.exe.config
+C:\Users\santi\OneDrive\Documentos\TP FINAL V1.1\TP FINAL\bin\Debug\TP FINAL.exe
+C:\Users\santi\OneDrive\Documentos\TP FINAL V1.1\TP FINAL\bin\Debug\TP FINAL.pdb
+C:\Users\fedee\Desktop\TP FINAL V1.12\TP FINAL\bin\Debug\TP FINAL.exe.config
+C:\Users\fedee\Desktop\TP FINAL V1.12\TP FINAL\bin\Debug\TP FINAL.exe
+C:\Users\fedee\Desktop\TP FINAL V1.12\TP FINAL\bin\Debug\TP FINAL.pdb
+C:\Users\fedee\Desktop\TP FINAL V1.12\TP FINAL\obj\Debug\TP FINAL.csproj.AssemblyReference.cache
+C:\Users\fedee\Desktop\TP FINAL V1.12\TP FINAL\obj\Debug\TP FINAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\fedee\Desktop\TP FINAL V1.12\TP FINAL\obj\Debug\TP_FINAL.FrmLogin.resources
+C:\Users\fedee\Desktop\TP FINAL V1.12\TP FINAL\obj\Debug\TP_FINAL.FrmPantallaPrincipal.resources
+C:\Users\fedee\Desktop\TP FINAL V1.12\TP FINAL\obj\Debug\TP_FINAL.FrmPantallaPrincipalAdmin.resources
+C:\Users\fedee\Desktop\TP FINAL V1.12\TP FINAL\obj\Debug\TP_FINAL.FrmRecuperacionContraseña.resources
+C:\Users\fedee\Desktop\TP FINAL V1.12\TP FINAL\obj\Debug\TP_FINAL.FrmRegistrarse.resources
+C:\Users\fedee\Desktop\TP FINAL V1.12\TP FINAL\obj\Debug\TP_FINAL.Properties.Resources.resources
+C:\Users\fedee\Desktop\TP FINAL V1.12\TP FINAL\obj\Debug\TP FINAL.csproj.GenerateResource.cache
+C:\Users\fedee\Desktop\TP FINAL V1.12\TP FINAL\obj\Debug\TP FINAL.csproj.CoreCompileInputs.cache
+C:\Users\fedee\Desktop\TP FINAL V1.12\TP FINAL\obj\Debug\TP FINAL.exe
+C:\Users\fedee\Desktop\TP FINAL V1.12\TP FINAL\obj\Debug\TP FINAL.pdb
