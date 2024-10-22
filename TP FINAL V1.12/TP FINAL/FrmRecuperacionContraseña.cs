@@ -87,5 +87,10 @@ namespace TP_FINAL
         {
 
         }
+
+        private void tbCodigoEnviadoEmail_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

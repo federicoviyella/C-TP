@@ -74,11 +74,15 @@ namespace TP_FINAL
 
         private void dgvPersonalizado_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-            
+            int selectedRowIndex = dgvUsuarios.CurrentCell.RowIndex;
             dgvUsuarios.DataSource = null;
             CargarUsuarios();
 
-           
+            dgvUsuarios.CurrentCell = dgvUsuarios.Rows[selectedRowIndex].Cells[0];
+
+
+            
+
 
         }
 
@@ -90,18 +94,40 @@ namespace TP_FINAL
             dgvUsuarios.AutoSizeRowsMode = DataGridViewAutoSizeRowsMode.AllCells;
             dgvUsuarios.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dgvUsuarios.ColumnHeadersDefaultCellStyle.Font = new Font("Arial", 12, FontStyle.Bold);
-
-
+            cmbNivelUsuario.Text = "Seleccione nivel de usuario";
 
         }
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
 
+
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
+            string nivelSeleccionado = cmbNivelUsuario.SelectedItem.ToString();
+            string email = dgvUsuarios.SelectedRows[0].Cells["Email"].Value.ToString(); 
+            
+
+            if (nivelSeleccionado == "Usuario" || nivelSeleccionado == "Administrador")
+            {
+               
+                administrador.ActualizarNivelUsuario(email, nivelSeleccionado);
+                CargarUsuarios();
+                
+                
+
+
+            }
+            else
+            {
+                MessageBox.Show("Error al modificar el nivel de Usuario");
+                
+            }
+            
+
+
 
         }
 
@@ -133,17 +159,59 @@ namespace TP_FINAL
 
         private void btnEliminar_Click(object sender, EventArgs e)
         {
-            if (dgvUsuarios.SelectedRows.Count >0)
-            {
-                string email = dgvUsuarios.SelectedRows[0].Cells["Email"].Value.ToString();
-                administrador.EliminarUsuario(email);
-                CargarUsuarios();
+            DialogResult Resultado;
+            Resultado = MessageBox.Show("Esta seguro que desea eliminar al usuario?",
 
-            }
-            else
+             "Advertencia",
+
+             MessageBoxButtons.YesNoCancel,
+             MessageBoxIcon.Hand,
+             MessageBoxDefaultButton.Button3);
+
+            switch (Resultado)
             {
-                MessageBox.Show("No se ha podido eliminar al usuario");
-            }    
+                case DialogResult.Yes:
+                    if (dgvUsuarios.SelectedRows.Count > 0)
+                    {
+                        string email = dgvUsuarios.SelectedRows[0].Cells["Email"].Value.ToString();
+                        administrador.EliminarUsuario(email);
+                        CargarUsuarios();
+
+                    }
+                    else
+                    {
+                        MessageBox.Show("No se ha podido eliminar al usuario");
+                    }
+                    MessageBox.Show("Se ha eliminado al Usuario correctamente.");
+                    break;
+                    
+                case DialogResult.No:
+                    
+                    return;
+
+                case DialogResult.Cancel:
+                    
+
+                    return;
+
+                default:
+                    break;
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
         }
 
         private void lblEmail_Click(object sender, EventArgs e)
@@ -152,6 +220,11 @@ namespace TP_FINAL
         }
 
         private void lblListaUsuarios_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void cmbNivelUsuario_Click(object sender, EventArgs e)
         {
 
         }

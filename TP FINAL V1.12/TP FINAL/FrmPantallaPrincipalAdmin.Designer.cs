@@ -28,10 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle9 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle10 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             this.grpPersonaSeleccionada = new System.Windows.Forms.GroupBox();
-            this.chkEditar = new System.Windows.Forms.CheckBox();
+            this.txtNivelUsuario = new System.Windows.Forms.TextBox();
+            this.lblNivelUsuario = new System.Windows.Forms.Label();
+            this.cmbNivelUsuario = new System.Windows.Forms.ComboBox();
             this.txtEmail = new System.Windows.Forms.TextBox();
             this.txtNombre = new System.Windows.Forms.TextBox();
             this.txtApellido = new System.Windows.Forms.TextBox();
@@ -40,9 +42,6 @@
             this.lblApellido = new System.Windows.Forms.Label();
             this.btnEliminar = new System.Windows.Forms.Button();
             this.dgvUsuarios = new System.Windows.Forms.DataGridView();
-            this.cmbNivelUsuario = new System.Windows.Forms.ComboBox();
-            this.lblNivelUsuario = new System.Windows.Forms.Label();
-            this.txtNivelUsuario = new System.Windows.Forms.TextBox();
             this.lblListaUsuarios = new System.Windows.Forms.Label();
             this.grpPersonaSeleccionada.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvUsuarios)).BeginInit();
@@ -68,16 +67,35 @@
             this.grpPersonaSeleccionada.Text = "Datos del usuario:";
             this.grpPersonaSeleccionada.Enter += new System.EventHandler(this.grpPersonaSeleccionada_Enter);
             // 
-            // chkEditar
+            // txtNivelUsuario
             // 
-            this.chkEditar.AutoSize = true;
-            this.chkEditar.Font = new System.Drawing.Font("Arial", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.chkEditar.Location = new System.Drawing.Point(447, 246);
-            this.chkEditar.Name = "chkEditar";
-            this.chkEditar.Size = new System.Drawing.Size(164, 26);
-            this.chkEditar.TabIndex = 8;
-            this.chkEditar.Text = "Habilitar Edición";
-            this.chkEditar.UseVisualStyleBackColor = true;
+            this.txtNivelUsuario.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtNivelUsuario.Location = new System.Drawing.Point(437, 177);
+            this.txtNivelUsuario.Multiline = true;
+            this.txtNivelUsuario.Name = "txtNivelUsuario";
+            this.txtNivelUsuario.Size = new System.Drawing.Size(292, 32);
+            this.txtNivelUsuario.TabIndex = 12;
+            // 
+            // lblNivelUsuario
+            // 
+            this.lblNivelUsuario.Font = new System.Drawing.Font("Arial", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblNivelUsuario.Location = new System.Drawing.Point(433, 149);
+            this.lblNivelUsuario.Name = "lblNivelUsuario";
+            this.lblNivelUsuario.Size = new System.Drawing.Size(225, 22);
+            this.lblNivelUsuario.TabIndex = 11;
+            this.lblNivelUsuario.Text = "Nivel Usuario:";
+            this.lblNivelUsuario.Click += new System.EventHandler(this.label1_Click);
+            // 
+            // cmbNivelUsuario
+            // 
+            this.cmbNivelUsuario.FormattingEnabled = true;
+            this.cmbNivelUsuario.Location = new System.Drawing.Point(437, 107);
+            this.cmbNivelUsuario.Name = "cmbNivelUsuario";
+            this.cmbNivelUsuario.Size = new System.Drawing.Size(292, 30);
+            this.cmbNivelUsuario.TabIndex = 10;
+            this.cmbNivelUsuario.Text = "Seleccione el Nivel del Usuario";
+            this.cmbNivelUsuario.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
+            this.cmbNivelUsuario.Click += new System.EventHandler(this.cmbNivelUsuario_Click);
             // 
             // txtEmail
             // 
@@ -139,7 +157,7 @@
             // btnEliminar
             // 
             this.btnEliminar.Font = new System.Drawing.Font("Arial", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnEliminar.Location = new System.Drawing.Point(617, 240);
+            this.btnEliminar.Location = new System.Drawing.Point(560, 243);
             this.btnEliminar.Name = "btnEliminar";
             this.btnEliminar.Size = new System.Drawing.Size(141, 36);
             this.btnEliminar.TabIndex = 7;
@@ -150,61 +168,32 @@
             // dgvUsuarios
             // 
             this.dgvUsuarios.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewCellStyle9.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle9.BackColor = System.Drawing.SystemColors.HotTrack;
-            dataGridViewCellStyle9.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle9.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle9.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle9.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle9.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dgvUsuarios.DefaultCellStyle = dataGridViewCellStyle9;
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.HotTrack;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dgvUsuarios.DefaultCellStyle = dataGridViewCellStyle1;
             this.dgvUsuarios.Location = new System.Drawing.Point(29, 283);
             this.dgvUsuarios.MultiSelect = false;
             this.dgvUsuarios.Name = "dgvUsuarios";
             this.dgvUsuarios.ReadOnly = true;
-            dataGridViewCellStyle10.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle10.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            dataGridViewCellStyle10.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle10.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle10.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle10.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle10.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.dgvUsuarios.RowHeadersDefaultCellStyle = dataGridViewCellStyle10;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgvUsuarios.RowHeadersDefaultCellStyle = dataGridViewCellStyle2;
             this.dgvUsuarios.RowHeadersVisible = false;
             this.dgvUsuarios.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvUsuarios.Size = new System.Drawing.Size(738, 253);
             this.dgvUsuarios.TabIndex = 6;
             this.dgvUsuarios.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvPersonalizado_CellContentClick);
             this.dgvUsuarios.SelectionChanged += new System.EventHandler(this.dgvUsuarios_SelectionChanged);
-            // 
-            // cmbNivelUsuario
-            // 
-            this.cmbNivelUsuario.FormattingEnabled = true;
-            this.cmbNivelUsuario.Location = new System.Drawing.Point(437, 107);
-            this.cmbNivelUsuario.Name = "cmbNivelUsuario";
-            this.cmbNivelUsuario.Size = new System.Drawing.Size(292, 30);
-            this.cmbNivelUsuario.TabIndex = 10;
-            this.cmbNivelUsuario.Text = "Seleccione el Nivel de Usuario";
-            this.cmbNivelUsuario.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
-            // 
-            // lblNivelUsuario
-            // 
-            this.lblNivelUsuario.Font = new System.Drawing.Font("Arial", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblNivelUsuario.Location = new System.Drawing.Point(433, 149);
-            this.lblNivelUsuario.Name = "lblNivelUsuario";
-            this.lblNivelUsuario.Size = new System.Drawing.Size(225, 22);
-            this.lblNivelUsuario.TabIndex = 11;
-            this.lblNivelUsuario.Text = "Nivel Usuario:";
-            this.lblNivelUsuario.Click += new System.EventHandler(this.label1_Click);
-            // 
-            // txtNivelUsuario
-            // 
-            this.txtNivelUsuario.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtNivelUsuario.Location = new System.Drawing.Point(437, 177);
-            this.txtNivelUsuario.Multiline = true;
-            this.txtNivelUsuario.Name = "txtNivelUsuario";
-            this.txtNivelUsuario.Size = new System.Drawing.Size(235, 32);
-            this.txtNivelUsuario.TabIndex = 12;
             // 
             // lblListaUsuarios
             // 
@@ -227,7 +216,6 @@
             this.Controls.Add(this.dgvUsuarios);
             this.Controls.Add(this.grpPersonaSeleccionada);
             this.Controls.Add(this.btnEliminar);
-            this.Controls.Add(this.chkEditar);
             this.Name = "FrmPantallaPrincipalAdmin";
             this.Text = "FrmPantallaPrincipalAdmin";
             this.Load += new System.EventHandler(this.FrmPantallaPrincipalAdmin_Load);
@@ -247,7 +235,6 @@
         private System.Windows.Forms.Label lblEmail;
         private System.Windows.Forms.Label lblNombre;
         private System.Windows.Forms.Label lblApellido;
-        private System.Windows.Forms.CheckBox chkEditar;
         private System.Windows.Forms.Button btnEliminar;
         private System.Windows.Forms.DataGridView dgvUsuarios;
         private System.Windows.Forms.ComboBox cmbNivelUsuario;

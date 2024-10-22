@@ -46,7 +46,7 @@
             // 
             this.lblIngreseDatos.AutoSize = true;
             this.lblIngreseDatos.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblIngreseDatos.Location = new System.Drawing.Point(125, 35);
+            this.lblIngreseDatos.Location = new System.Drawing.Point(81, 20);
             this.lblIngreseDatos.Name = "lblIngreseDatos";
             this.lblIngreseDatos.Size = new System.Drawing.Size(182, 25);
             this.lblIngreseDatos.TabIndex = 0;
@@ -56,7 +56,7 @@
             // 
             this.lblNombreCompletoRegistrarse.AutoSize = true;
             this.lblNombreCompletoRegistrarse.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblNombreCompletoRegistrarse.Location = new System.Drawing.Point(129, 77);
+            this.lblNombreCompletoRegistrarse.Location = new System.Drawing.Point(85, 62);
             this.lblNombreCompletoRegistrarse.Name = "lblNombreCompletoRegistrarse";
             this.lblNombreCompletoRegistrarse.Size = new System.Drawing.Size(137, 20);
             this.lblNombreCompletoRegistrarse.TabIndex = 1;
@@ -66,7 +66,7 @@
             // 
             this.lblEmailRegistrarse.AutoSize = true;
             this.lblEmailRegistrarse.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblEmailRegistrarse.Location = new System.Drawing.Point(123, 215);
+            this.lblEmailRegistrarse.Location = new System.Drawing.Point(79, 200);
             this.lblEmailRegistrarse.Name = "lblEmailRegistrarse";
             this.lblEmailRegistrarse.Size = new System.Drawing.Size(48, 20);
             this.lblEmailRegistrarse.TabIndex = 2;
@@ -77,7 +77,7 @@
             // 
             this.lblContraseñaRegistrarse.AutoSize = true;
             this.lblContraseñaRegistrarse.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblContraseñaRegistrarse.Location = new System.Drawing.Point(124, 297);
+            this.lblContraseñaRegistrarse.Location = new System.Drawing.Point(80, 282);
             this.lblContraseñaRegistrarse.Name = "lblContraseñaRegistrarse";
             this.lblContraseñaRegistrarse.Size = new System.Drawing.Size(92, 20);
             this.lblContraseñaRegistrarse.TabIndex = 3;
@@ -87,7 +87,7 @@
             // 
             this.lblConfirmarContraseñaRegistrarse.AutoSize = true;
             this.lblConfirmarContraseñaRegistrarse.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblConfirmarContraseñaRegistrarse.Location = new System.Drawing.Point(122, 369);
+            this.lblConfirmarContraseñaRegistrarse.Location = new System.Drawing.Point(78, 354);
             this.lblConfirmarContraseñaRegistrarse.Name = "lblConfirmarContraseñaRegistrarse";
             this.lblConfirmarContraseñaRegistrarse.Size = new System.Drawing.Size(165, 20);
             this.lblConfirmarContraseñaRegistrarse.TabIndex = 4;
@@ -97,30 +97,30 @@
             // tbNombreCompletoRegistrarse
             // 
             this.tbNombreCompletoRegistrarse.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbNombreCompletoRegistrarse.Location = new System.Drawing.Point(130, 100);
+            this.tbNombreCompletoRegistrarse.Location = new System.Drawing.Point(86, 85);
             this.tbNombreCompletoRegistrarse.Multiline = true;
             this.tbNombreCompletoRegistrarse.Name = "tbNombreCompletoRegistrarse";
-            this.tbNombreCompletoRegistrarse.Size = new System.Drawing.Size(181, 29);
+            this.tbNombreCompletoRegistrarse.Size = new System.Drawing.Size(252, 30);
             this.tbNombreCompletoRegistrarse.TabIndex = 6;
             this.tbNombreCompletoRegistrarse.TextChanged += new System.EventHandler(this.tbNombreCompletoRegistrarse_TextChanged);
             // 
             // tbApellidoRegistrarse
             // 
             this.tbApellidoRegistrarse.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbApellidoRegistrarse.Location = new System.Drawing.Point(130, 167);
+            this.tbApellidoRegistrarse.Location = new System.Drawing.Point(86, 152);
             this.tbApellidoRegistrarse.Multiline = true;
             this.tbApellidoRegistrarse.Name = "tbApellidoRegistrarse";
-            this.tbApellidoRegistrarse.Size = new System.Drawing.Size(181, 32);
+            this.tbApellidoRegistrarse.Size = new System.Drawing.Size(252, 33);
             this.tbApellidoRegistrarse.TabIndex = 7;
             this.tbApellidoRegistrarse.TextChanged += new System.EventHandler(this.tbApellidoRegistrarse_TextChanged);
             // 
             // tbEmailRegistrarse
             // 
             this.tbEmailRegistrarse.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbEmailRegistrarse.Location = new System.Drawing.Point(129, 238);
+            this.tbEmailRegistrarse.Location = new System.Drawing.Point(85, 223);
             this.tbEmailRegistrarse.Multiline = true;
             this.tbEmailRegistrarse.Name = "tbEmailRegistrarse";
-            this.tbEmailRegistrarse.Size = new System.Drawing.Size(181, 35);
+            this.tbEmailRegistrarse.Size = new System.Drawing.Size(252, 36);
             this.tbEmailRegistrarse.TabIndex = 8;
             this.tbEmailRegistrarse.TextChanged += new System.EventHandler(this.tbEmailRegistrarse_TextChanged);
             // 
@@ -128,7 +128,7 @@
             // 
             this.lblApellidoRegistrarse.AutoSize = true;
             this.lblApellidoRegistrarse.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblApellidoRegistrarse.Location = new System.Drawing.Point(126, 144);
+            this.lblApellidoRegistrarse.Location = new System.Drawing.Point(82, 129);
             this.lblApellidoRegistrarse.Name = "lblApellidoRegistrarse";
             this.lblApellidoRegistrarse.Size = new System.Drawing.Size(65, 20);
             this.lblApellidoRegistrarse.TabIndex = 9;
@@ -138,20 +138,20 @@
             // tbContraseñaRegistrarse
             // 
             this.tbContraseñaRegistrarse.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbContraseñaRegistrarse.Location = new System.Drawing.Point(128, 320);
+            this.tbContraseñaRegistrarse.Location = new System.Drawing.Point(84, 305);
             this.tbContraseñaRegistrarse.Multiline = true;
             this.tbContraseñaRegistrarse.Name = "tbContraseñaRegistrarse";
-            this.tbContraseñaRegistrarse.Size = new System.Drawing.Size(181, 36);
+            this.tbContraseñaRegistrarse.Size = new System.Drawing.Size(252, 37);
             this.tbContraseñaRegistrarse.TabIndex = 10;
             this.tbContraseñaRegistrarse.TextChanged += new System.EventHandler(this.tbContraseñaRegistrarse_TextChanged);
             // 
             // tbConfirmarContraseñaRegistrarse
             // 
             this.tbConfirmarContraseñaRegistrarse.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbConfirmarContraseñaRegistrarse.Location = new System.Drawing.Point(126, 392);
+            this.tbConfirmarContraseñaRegistrarse.Location = new System.Drawing.Point(82, 377);
             this.tbConfirmarContraseñaRegistrarse.Multiline = true;
             this.tbConfirmarContraseñaRegistrarse.Name = "tbConfirmarContraseñaRegistrarse";
-            this.tbConfirmarContraseñaRegistrarse.Size = new System.Drawing.Size(181, 35);
+            this.tbConfirmarContraseñaRegistrarse.Size = new System.Drawing.Size(252, 36);
             this.tbConfirmarContraseñaRegistrarse.TabIndex = 11;
             this.tbConfirmarContraseñaRegistrarse.TextChanged += new System.EventHandler(this.tbConfirmarContraseñaRegistrarse_TextChanged);
             // 
@@ -159,9 +159,9 @@
             // 
             this.btnRegistrarse.BackColor = System.Drawing.SystemColors.HighlightText;
             this.btnRegistrarse.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnRegistrarse.Location = new System.Drawing.Point(126, 444);
+            this.btnRegistrarse.Location = new System.Drawing.Point(82, 429);
             this.btnRegistrarse.Name = "btnRegistrarse";
-            this.btnRegistrarse.Size = new System.Drawing.Size(181, 47);
+            this.btnRegistrarse.Size = new System.Drawing.Size(252, 48);
             this.btnRegistrarse.TabIndex = 12;
             this.btnRegistrarse.Text = "Registrarse";
             this.btnRegistrarse.UseVisualStyleBackColor = false;
@@ -172,7 +172,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.ClientSize = new System.Drawing.Size(499, 523);
+            this.ClientSize = new System.Drawing.Size(431, 505);
             this.Controls.Add(this.btnRegistrarse);
             this.Controls.Add(this.tbConfirmarContraseñaRegistrarse);
             this.Controls.Add(this.tbContraseñaRegistrarse);
@@ -186,6 +186,7 @@
             this.Controls.Add(this.lblNombreCompletoRegistrarse);
             this.Controls.Add(this.lblIngreseDatos);
             this.Name = "FrmRegistrarse";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FrmRegistrarse";
             this.ResumeLayout(false);
             this.PerformLayout();
